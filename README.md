@@ -1,1 +1,88 @@
-<font color='blue'>un texte en bleu</font>
+
+# Data Analyst
+
+
+***Diplômée du DUAD***, Université des sciences de la vigne et du vin Bordeaux II, je me suis attachée à la rédaction de fiches techniques pour les négociants bordelais.\
+Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur confiance dans la gestion et le management du tchat des ***foires aux vins nationales pour le groupe Carrefour*** : constitution d’une équipe de ***10 Community Manager***, collecte en amont de data sur les accords mets/vins, sur les meilleurs millésimes régionaux, gestion des plannings …
+<br>
+Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.
+<br>
+<br>
+<br>
+Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
+-	Prise en main de Python  **35 heures**
+-	Sensibilisation à l’acculturation data    **4 heures**
+-	Gestion de la qualité des données   **6 heures** 
+-	Prise en main d’outils de Business Intelligence  **30 heures**
+-	Gouvernance de bases de données et requêtes  **10 heures**
+<br>
+
+***Séduite par ce monde de la Data***, j’ai choisi de ***pousser mes compétences encore plus loin***.
+<br>
+
+
+Toujours avec le concours des équipes de DataScientest ,  je me suis attachée à devenir <ins>**DATA ANALYST**</ins>:
+  - Approfondissement de Python et ses librairies   **35 heures**
+  - Manipulation d’outils de Data Visualisation   **35 heures**
+  - Machine Learning avancé   **75 heures**
+  - Big Data et Data Base    **25 heures**
+  - Outils de BI    **30 heures**
+  - Text Mining et Web Scrapping     **30 heures**
+<br>
+
+
+Durant ces formations j’ai eu l’occasion de ***mettre en pratique mes acquis*** en réalisant des ***rapports PBI*** sur des sujets me tenant à cœur :
+   - <ins>L’emploi dans le département de La Manche<ins>
+   - <ins>Le profilage des métiers de la Data Science<ins>
+<br>
+
+Régulièrement  en ***quête d'apprentissage***, je me suis **auto-formée à Streamlit** afin de présenter mes modélisations prédictives de manière plus accessibles et "ludiques".
+<br>
+
+De même, souhaitant ***proposer un portfolio moderne***, j’ai également appris à utiliser **GitHub en toute autonomie**.
+<br>
+<br>
+
+<ins>**MES COMPETENCES TECHNIQUES:**</ins>
+   - <ins>Analyse de données et travail collaboratif</ins>
+      - Numpy
+      - Pandas
+      - PySpark
+      - Jupyter Notebook
+      - Github
+      - SQL
+  - <ins>Data visualisation</ins>
+     - Matplotlib
+     - Seaborn
+     - Plotly
+     - Bokeh
+     - Streamlit
+
+  - <ins>Machine Learning</ins>
+    - Scikit-Learn
+    - Régression
+    - Classification
+    - Analyse prédictive
+
+  - <ins>Business Intellenge</ins>
+    - Power BI
+    - Tableau
+
+  - <ins>Big Data</ins> 
+    - Spark
+<br>
+
+<ins>**MES COMPETENCES PERSONNELLES:**</ins>
+   - Capacité organisationnelle et collaborative
+   - Aisance rédactionnelle et communicative
+   - Pensée analytique et critique
+   - Souci du détail, de la précision
+   - Curiosité et adaptabilité
+   - Appétence pour l’apprentissage
+
+
+
+
+
+
+
