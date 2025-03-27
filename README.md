@@ -34,7 +34,7 @@ Toujours avec le concours des équipes de DataScientest ,  je me suis attachée 
 
 Durant ces formations j’ai eu l’occasion de ***mettre en pratique mes acquis*** en réalisant des ***rapports PBI*** sur des sujets me tenant à cœur :
    - <ins>L’emploi dans le département de La Manche<ins>   (https://github.com/fanny-lamoliatte/DATAJOB_2024)
-   - <ins>Le profilage des métiers de la Data Science<ins> [![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG width="70" )](https://github.com/fanny-lamoliatte/DATAJOB_2024)
+
    - <ins>Le profilage des métiers de la Data Science<ins> [![Mon logo](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG)](https://github.com/fanny-lamoliatte/DATAJOB_2024)
 
 
