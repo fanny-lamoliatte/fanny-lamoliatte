@@ -1,4 +1,14 @@
 
+<div style='display:flex'>
+
+<div><img src='https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png'></div>
+
+<div><img src='(https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)'></div>
+
+</div>
+
+
+
 ![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png)
 <p align="center">
    <img align="center" width="20%" src="[path_image_chargée](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png)" />
