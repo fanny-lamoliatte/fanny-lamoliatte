@@ -34,7 +34,7 @@ Toujours avec le concours des équipes de DataScientest ,  je me suis attachée 
 
 Durant ces formations j’ai eu l’occasion de ***mettre en pratique mes acquis*** en réalisant des ***rapports PBI*** sur des sujets me tenant à cœur :
    - <ins>L’emploi dans le département de La Manche<ins>   (https://github.com/fanny-lamoliatte/DATAJOB_2024)
-   - <ins> <a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="Mon logo" width="150"/></a> Le profilage des métiers de la Data Science<ins> <a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="Mon logo" width="120"/></a>
+   - <ins> <a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="PROFILAGE" width="120"/></a> 
 <br>
 
 Régulièrement  en ***quête d'apprentissage***, je me suis **auto-formée à Streamlit** afin de présenter mes modélisations prédictives de manière plus accessibles et "ludiques".
