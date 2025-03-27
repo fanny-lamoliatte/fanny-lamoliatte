@@ -1,7 +1,5 @@
 
-<span class="badge" style="background-color: blue">
-    35 heures
-</span>
+![35 heures](https://img.shields.io/badge/35%20heures-blue)
 
 
 # Data Analyst
