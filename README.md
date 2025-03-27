@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <p class="blue-text">Data Analyst</p>
-</html>
 
 # Data Analyst 
 
