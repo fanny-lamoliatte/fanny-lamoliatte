@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/35%20heures-66ccff?style=flat&logoColor=white" alt="35 heures" width="75">
+<span style="background-color: #66B2FF; color: white; padding: 10px 20px; border-radius: 12px; font-weight: bold; font-size: 18px;">35 heures</span>
 
 <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75">
 
