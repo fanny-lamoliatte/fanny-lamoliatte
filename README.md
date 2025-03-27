@@ -1,5 +1,5 @@
 
-<a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="Mon logo" width="120"/></a>
+<a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG"  width="120"/></a>
 
 
 
