@@ -1,12 +1,3 @@
-
-<div style="display:flex"> 
-    <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/bokeh_2.png">&nbsp; 
-    <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamit_logo.png">
-</div> 
-
-
-
-
 # Data Analyst
 
 
@@ -52,6 +43,10 @@ De même, souhaitant ***proposer un portfolio moderne***, j’ai également appr
 <br>
 
 <ins>**MES COMPETENCES TECHNIQUES:**</ins>
+<div style="display:flex"> 
+    <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/bokeh_2.png">&nbsp; 
+    <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamit_logo.png">
+</div> 
    - <ins>Analyse de données et travail collaboratif</ins>
       - Numpy
       - Pandas
