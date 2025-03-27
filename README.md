@@ -12,9 +12,9 @@ Cette première immersion a suscité en moi la **volonté de me reconvertir** da
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="71">   
 -	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="60">   
--	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="67">   
--	Prise en main d’outils de **Business Intelligence** <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
--	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
+-	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="60">   
+-	Prise en main d’outils de **Business Intelligence** <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="71"> 
+-	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="71"> 
 <br>
 
 ***Séduite par ce monde de la Data***, j’ai choisi de ***pousser mes compétences encore plus loin***.
