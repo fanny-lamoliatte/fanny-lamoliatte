@@ -1,7 +1,7 @@
 
 <div style="display:flex"> 
-    <img  width= "2%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/bokeh_2.png">&nbsp; 
-    <img  width= "2%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/github_2.png"> 
+    <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/bokeh_2.png">&nbsp; 
+    <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/github_2.png"> 
 </div> 
 
 
