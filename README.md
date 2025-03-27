@@ -1,6 +1,6 @@
 
 <div style="display:flex"> 
-    <img  width= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png">&nbsp; 
+    <img  width= "5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/Github-desktop-logo-symbol.svg.png">&nbsp; 
     <img  width= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/SQL-logo.png"> 
 </div> 
 
