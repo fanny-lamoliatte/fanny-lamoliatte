@@ -1,4 +1,4 @@
-__Data Analyst__  
+
 # Data Analyst 
 
 
