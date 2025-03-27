@@ -1,7 +1,7 @@
 
-<span style="background-color: #28a745; color: white; padding: 10px 20px; border-radius: 12px; font-weight: bold; font-size: 18px;">DATA MANAGER</span>
 
 
+<img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="DATA MANAGER" width="75">   
 
 
 # Data Analyst
