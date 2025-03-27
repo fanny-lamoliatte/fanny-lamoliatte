@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texte en bleu</title>
-    <style>
-        .blue-text {
-            color: blue;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
     <p class="blue-text">Data Analyst</p>
-
-</body>
 </html>
 
 # Data Analyst 
