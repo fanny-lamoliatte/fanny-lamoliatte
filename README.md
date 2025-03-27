@@ -1,9 +1,7 @@
 
-<a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="Mon logo" width="150"/></a>
+<a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" alt="Mon logo" width="120"/></a>
 
 
-
-[![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG)](https://github.com/fanny-lamoliatte/DATAJOB_2024)
 
 
 # Data Analyst 
