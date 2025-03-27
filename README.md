@@ -9,7 +9,7 @@ Cette première immersion a suscité en moi la **volonté de me reconvertir** da
 <br>
 <br>
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
--	Prise en main de Python  **35 heures**
+-	Prise en main de Python    [**35 heures**]       
 -	Sensibilisation à l’acculturation data    **4 heures**
 -	Gestion de la qualité des données   **6 heures** 
 -	Prise en main d’outils de Business Intelligence  **30 heures**
