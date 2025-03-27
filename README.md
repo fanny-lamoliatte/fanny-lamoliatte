@@ -1,5 +1,5 @@
 
-<span style="color: blue; font-weight: bold;">Data Analyst</span>
+<p style="color: blue; font-weight: bold;">Data Analyst</p>
 
 # Data Analyst 
 
