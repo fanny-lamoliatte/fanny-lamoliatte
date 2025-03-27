@@ -1,13 +1,13 @@
 
 <div style='display:flex'>
-
 <div><img src='https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png'></div>
-
 <div><img src='(https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)'></div>
-
 </div>
 
-
+<div style="display:flex"> 
+    <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png"> 
+    <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png"> 
+</div> 
 
 ![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png)
 <p align="center">
