@@ -1,6 +1,4 @@
-https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG
 
-[![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG)
 
 # Data Analyst 
 
