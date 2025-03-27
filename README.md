@@ -1,5 +1,5 @@
 
-<span class="badge" style="background-color: blue; color: white; padding: 5px 10px; border-radius: 12px; font-weight: bold;">
+<span class="badge" style="background-color: blue">
     35 heures
 </span>
 
