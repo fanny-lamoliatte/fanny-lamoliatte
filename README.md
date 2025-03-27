@@ -1,8 +1,4 @@
 
-<p style="display: inline; font-size: 18px; font-weight: bold; vertical-align: middle;">Data Analyst <img src="https://img.shields.io/badge/Badge-Blue?style=flat&logo=github&logoColor=white" alt="Badge" style="vertical-align: middle;"/></p>
-
-
-
 # Data Analyst 
 
 
