@@ -1,20 +1,10 @@
 
-<div style='display:flex'>
-<div><img src='https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png'></div>
-<div><img src='(https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)'></div>
-</div>
-
 <div style="display:flex"> 
-    <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png"> 
-    <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png"> 
+    <img align="center" wideth= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png"> 
+    <img align="center" wideth= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png"> 
 </div> 
 
-![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png)
-<p align="center">
-   <img align="center" width="20%" src="[path_image_chargée](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png)" />
-</p>
 
-![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)
 
 
 # Data Analyst
