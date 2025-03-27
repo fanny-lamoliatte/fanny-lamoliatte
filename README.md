@@ -1,4 +1,4 @@
-<span style="font-size: 24px;">Data Analyst</span>
+<span style="font-size: 240px;">Data Analyst</span>
 
 
 # Data Analyst 
