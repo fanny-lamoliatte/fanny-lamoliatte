@@ -12,7 +12,7 @@ Cette première immersion a suscité en moi la **volonté de me reconvertir** da
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75">   
 -	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75">   
--	Gestion de la qualité des données   **6 heures** 
+-	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75">   
 -	Prise en main d’outils de Business Intelligence  **30 heures**
 -	Gouvernance de bases de données et requêtes  **10 heures**
 <br>
