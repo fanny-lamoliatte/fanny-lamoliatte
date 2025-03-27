@@ -1,4 +1,4 @@
-
+![Badge](https://img.shields.io/badge/Important-red)
 # Data Analyst 
 
 
