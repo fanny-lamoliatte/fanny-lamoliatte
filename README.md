@@ -1,3 +1,9 @@
+
+<span class="badge" style="background-color: blue; color: white; padding: 5px 10px; border-radius: 12px; font-weight: bold;">
+    35 heures
+</span>
+
+
 # Data Analyst
 
 
