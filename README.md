@@ -6,8 +6,8 @@
     <title>Texte en bleu</title>
     <style>
         .blue-text {
-            color: blue; /* Applique la couleur bleue au texte */
-            font-weight: bold; /* Met le texte en gras */
+            color: blue;
+            font-weight: bold;
         }
     </style>
 </head>
