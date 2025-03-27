@@ -1,6 +1,6 @@
 
 ![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)
-
+![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png)
 
 
 # Data Analyst
