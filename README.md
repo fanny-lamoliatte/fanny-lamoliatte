@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/35%20heures-66ccff?style=flat&logoColor=white" alt="35 heures" width="150">
+<img src="https://img.shields.io/badge/35%20heures-66ccff?style=flat&logoColor=white" alt="35 heures" width="100">
 
 
 
