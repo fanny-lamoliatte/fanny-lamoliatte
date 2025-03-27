@@ -1,7 +1,7 @@
 
 <div style="display:flex"> 
     <img align="center" wideth= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/streamlit.png"> 
-    <img align="center" wideth= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/seaborn.png"> 
+    <img align="center" wideth= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/SQL-logo.png"> 
 </div> 
 
 
