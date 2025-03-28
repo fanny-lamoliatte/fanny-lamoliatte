@@ -43,7 +43,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
 <br>
 
- "J’ai également pris l’initiative de me former de manière autonome à Streamlit et GitHub, afin d’enrichir mes compétences."
+ J’ai également pris ***l’initiative*** de me former de ***manière autonome*** à ***Streamlit et GitHub***, afin d’enrichir mes compétences.
 <br>
 <br>
 
