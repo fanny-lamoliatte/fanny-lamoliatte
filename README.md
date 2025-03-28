@@ -12,10 +12,10 @@ Cette première immersion a suscité en moi la **volonté de me reconvertir** da
 <br>
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
--	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="60">   
--	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="60">   
+-	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="4 heures" width="60">   
+-	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="6 heures" width="60">   
 -	Prise en main d’outils de **Business Intelligence** <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
--	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
+-	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="10 heures" width="70"> 
 <br>
 
 ***Séduite par ce monde de la Data***, j’ai choisi de ***pousser mes compétences encore plus loin***.
@@ -23,12 +23,12 @@ Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**<
 
 
 Toujours avec le concours des équipes de DataScientest ,  je me suis attachée à devenir <ins>**DATA ANALYST**</ins>:
-  - Approfondissement de Python et ses librairies   **35 heures**
-  - Manipulation d’outils de Data Visualisation   **35 heures**
-  - Machine Learning avancé   **75 heures**
-  - Big Data et Data Base    **25 heures**
-  - Outils de BI    **30 heures**
-  - Text Mining et Web Scrapping     **30 heures**
+  - Approfondissement de Python et ses librairies   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
+  - Manipulation d’outils de Data Visualisation  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
+  - Machine Learning avancé   <img src="https://img.shields.io/badge/75%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="75 heures" width="70"> 
+  - Big Data et Data Base    <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="25 heures" width="70"> 
+  - Outils de BI    <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
+  - Text Mining et Web Scrapping     <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
 <br>
 
 
