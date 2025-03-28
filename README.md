@@ -76,6 +76,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
 </div>
+
   - <ins>Data visualisation</ins>
      - Matplotlib
      - Seaborn
