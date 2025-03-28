@@ -5,9 +5,10 @@
 ***Diplômée du DUAD***, Université des Sciences de la Vigne et du Vin Bordeaux II, je me suis attachée à la rédaction de fiches techniques pour des négociants bordelais.\
 Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur confiance dans la gestion et le management du tchat des ***foires aux vins nationales pour le groupe Carrefour*** :\
  - constitution d’une équipe de ***10 Community Manager***,\
-***collecte en amont de data*** sur les accords mets/vins,\
-sur les meilleurs millésimes régionaux, gestion des plannings …
+ - ***collecte en amont de data*** sur les accords mets/vins,\
+ - sur les meilleurs millésimes régionaux, gestion des plannings …
 <br>
+
 Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.\
 
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>
