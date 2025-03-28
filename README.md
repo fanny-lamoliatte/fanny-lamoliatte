@@ -50,7 +50,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 <ins>**MES COMPETENCES TECHNIQUES:**</ins>
 
 <div style="display:flex"> 
-    <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+    <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
     <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
     <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
     <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
@@ -67,8 +67,8 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
       - SQL
  <br>   
   <div style="display:flex"> 
-    <img  width= "3" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
-    <img  width= "3 src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
+    <img  width= "3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
+    <img  width= "3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
     <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/plotly_logo.png">&nbsp; 
     <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
     <img  width= "2.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
