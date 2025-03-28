@@ -8,11 +8,10 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
  - ***collecte en amont de data*** sur les accords mets/vins,\
  - sur les meilleurs millésimes régionaux, gestion des plannings …
 <br>
-
 Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.\
-
+<br>
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>
-
+<br>
 ***Très emballée par cette formation***, j’ai choisi de ***pousser mes compétences encore plus loin***.\
 Toujours avec le concours des équipes de DataScientest , je me suis attachée à devenir <ins>**DATA ANALYST**</ins>.
 <br>
