@@ -127,7 +127,9 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    - Appétence pour l’apprentissage
 
 
-
+<ins>**DIPLOMES:**</ins>
+ <br> 
+ <br> 
 
 
 
