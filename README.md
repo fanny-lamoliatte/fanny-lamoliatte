@@ -106,18 +106,18 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    - <ins>Business Intellenge</ins>
       - Power BI
       - Tableau
-
    <br> 
 
-   
+ <div style="display:flex"> 
+    <img  width= "4.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
+    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
+ </div> 
 
-  - <ins>Business Intellenge</ins>
-    - Power BI
-    - Tableau
+   - <ins>Big Data</ins>
+      - Spark
+   <br> 
 
-  - <ins>Big Data</ins> 
-    - Spark
-<br>
+
 
 <ins>**MES COMPETENCES PERSONNELLES:**</ins>
    - Capacité organisationnelle et collaborative
