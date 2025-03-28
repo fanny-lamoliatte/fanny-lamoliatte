@@ -109,8 +109,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    <br> 
 
  <div style="display:flex"> 
-    <img  width= "4.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
-    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
+    <img  width= "4.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
  </div> 
 
    - <ins>Big Data</ins>
