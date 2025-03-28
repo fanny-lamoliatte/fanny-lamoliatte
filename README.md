@@ -43,10 +43,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
 <br>
 
-Régulièrement  en ***quête d'apprentissage***, je me suis **auto-formée à Streamlit** afin de présenter mes modélisations prédictives de manière plus accessibles et "ludiques".
-<br>
-
-De même, souhaitant ***proposer un portfolio moderne***, j’ai également appris à utiliser **GitHub en toute autonomie**.
+ "J’ai également pris l’initiative de me former de manière autonome à Streamlit et GitHub, afin d’enrichir mes compétences."
 <br>
 <br>
 
