@@ -59,7 +59,6 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
     <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
 </div> 
- <br> 
  
    - <ins>Analyse de données et travail collaboratif</ins>
       - Numpy
