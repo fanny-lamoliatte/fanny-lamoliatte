@@ -87,7 +87,23 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
       - Streamlit
    <br> 
 
+    <div style="display:flex"> 
+    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
+    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
+    <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/plotly_logo.png">&nbsp; 
+    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
+    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
+ </div> 
 
+
+
+ <div style="display:flex"> 
+    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
+    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
+    <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/plotly_logo.png">&nbsp; 
+    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
+    <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
+ </div> 
 
   
 
