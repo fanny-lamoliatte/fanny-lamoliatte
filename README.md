@@ -52,7 +52,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
  <br> 
  
 <div style="display:flex"> 
-    <img  width= "3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+    <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
     <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
     <img  width= "3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
     <img  width= "3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
