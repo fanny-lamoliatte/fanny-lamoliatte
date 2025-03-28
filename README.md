@@ -81,14 +81,8 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
     - <ins>Analyse de données et travail collaboratif</ins>
       - Numpy
-
   
-   - <ins>Data visualisation</ins>
-      - Matplotlib
-      - Seaborn
-      - Plotly
-      - Bokeh
-      - Streamlit
+
 
   - <ins>Machine Learning</ins>
     - Scikit-Learn
