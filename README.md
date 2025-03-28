@@ -127,9 +127,9 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    - Appétence pour l’apprentissage
 
 
+
 <ins>**DIPLOMES:**</ins>
- <br> 
- <br> 
+   - Data Manager ![](https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf(
 
 
 
