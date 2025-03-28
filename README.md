@@ -129,7 +129,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
 
 <ins>**DIPLOMES:**</ins>
-   - Data Manager (https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf)
+   - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
    - Data Analyst (https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf)   
    - Data Analyst (https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf)
 
