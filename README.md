@@ -1,6 +1,4 @@
 
-<br>
-<br>\
 # Data Analyst 
 
 
@@ -16,7 +14,6 @@ Toujours avec le concours des équipes de DataScientest , je me suis attachée �
 <br>
 <br>
 
-
 #### <ins>**FORMATION DATA MANAGER**</ins>
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
 -	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="4 heures" width="60">   
@@ -25,7 +22,7 @@ Toujours avec le concours des équipes de DataScientest , je me suis attachée �
 -	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="10 heures" width="70"> 
 <br>
 
-
+#### <ins>**FORMATION DATA ANALYST**</ins>
 
 
   - Approfondissement de Python et ses librairies   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
