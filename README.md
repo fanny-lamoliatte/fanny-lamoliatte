@@ -79,8 +79,8 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
     <img  width= "3.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
  </div> 
 
-     - <ins>Analyse de données et travail collaboratif</ins>
-       - Numpy
+      - <ins>Analyse de données et travail collaboratif</ins>
+        - Numpy
   
 
 
