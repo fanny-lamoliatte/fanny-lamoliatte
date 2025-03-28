@@ -7,10 +7,14 @@
 Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur confiance dans la gestion et le management du tchat des ***foires aux vins nationales pour le groupe Carrefour*** : constitution d’une équipe de ***10 Community Manager***, ***collecte en amont de data*** sur les accords mets/vins, sur les meilleurs millésimes régionaux, gestion des plannings …
 <br>
 Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.
+Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>
+
+***Très emballée par cette formation***, j’ai choisi de ***pousser mes compétences encore plus loin***.
+Toujours avec le concours des équipes de DataScientest , je me suis attachée à devenir <ins>**DATA ANALYST**</ins>.
 <br>
 <br>
 <br>
-Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>:
+
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
 -	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="4 heures" width="60">   
 -	Gestion de la **qualité des données**   <img src="https://img.shields.io/badge/6%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="6 heures" width="60">   
@@ -18,11 +22,9 @@ Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**<
 -	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="10 heures" width="70"> 
 <br>
 
-***Séduite par ce monde de la Data***, j’ai choisi de ***pousser mes compétences encore plus loin***.
-<br>
 
 
-Toujours avec le concours des équipes de DataScientest ,  je me suis attachée à devenir <ins>**DATA ANALYST**</ins>:
+
   - Approfondissement de Python et ses librairies   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
   - Manipulation d’outils de Data Visualisation  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
   - Machine Learning avancé   <img src="https://img.shields.io/badge/75%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="75 heures" width="70"> 
