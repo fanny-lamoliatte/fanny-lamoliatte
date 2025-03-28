@@ -69,6 +69,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
       - SQL
     
  <br>   
+ 
   <div style="display:flex"> 
     <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
     <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
