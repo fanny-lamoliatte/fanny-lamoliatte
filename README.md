@@ -3,7 +3,7 @@
 
 
 ***Diplômée du DUAD***, Université des Sciences de la Vigne et du Vin Bordeaux II, je me suis attachée à la rédaction de fiches techniques pour des négociants bordelais.
-Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur confiance dans la gestion et le management du tchat des ***foires aux vins nationales pour le groupe Carrefour*** :
+Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur confiance dans la gestion et le management du tchat des ***foires aux vins nationales pour le groupe CARREFOUR*** :
  - constitution d’une équipe de ***10 Community Manager***,
  - ***collecte en amont de data*** sur les accords mets/vins,
  - sur les meilleurs millésimes régionaux,
