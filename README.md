@@ -117,7 +117,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
 
 
-<ins>**MES COMPETENCES PERSONNELLES:**</ins>
+### <ins>**MES COMPETENCES PERSONNELLES:**</ins>
    - Capacité organisationnelle et collaborative
    - Aisance rédactionnelle et communicative
    - Pensée analytique et critique
@@ -127,7 +127,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    <br> 
 
 
-<ins>**DIPLOMES:**</ins>
+### <ins>**DIPLOMES:**</ins>
    - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
