@@ -46,11 +46,12 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
  J’ai également pris ***l’initiative*** de me former de ***manière autonome*** à ***Streamlit*** et ***GitHub***, afin d’enrichir mes compétences.
 <br>
 <br>
-
+ <br> 
+ 
 <ins>**MES COMPETENCES TECHNIQUES:**</ins>
  <br> 
  <br> 
- <br> 
+
  
 <div style="display:flex"> 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
