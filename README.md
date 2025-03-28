@@ -11,6 +11,7 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
 
 Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.
 
+
 Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>
 
 ***Très emballée par cette formation***, j’ai choisi de ***pousser mes compétences encore plus loin***.
