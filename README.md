@@ -81,13 +81,13 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
    - <ins>Data visualisation</ins>
       - Matplotlib
+      - Seaborn
+      - Plotly
+      - Bokeh
+      - Streamlit
+   <br> 
 
-	Data visualisation
-•	Matplotlib
-•	Seaborn
-•	Plotly
-•	Bokeh
-•	Streamlit
+
 
   
 
