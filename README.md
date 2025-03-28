@@ -88,7 +88,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    <br> 
 
  <div style="display:flex"> 
-    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.pngg">
+    <img  width= "3.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
  </div> 
 
    - <ins>Machine Learning</ins>
