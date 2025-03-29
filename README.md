@@ -15,8 +15,8 @@ Cette première immersion a éveillé en moi une véritable volonté de **reconv
 J'ai d'abord choisi de suivre une formation de **DATA MANAGER**, une expérience qui m’a particulièrement enthousiasmée.
 Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.
 Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALYST**.
-
-
+<br> 
+<br> 
 
 ### <ins>**FORMATION DATA MANAGER**</ins>
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
