@@ -1,13 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
-  Voici un texte qui apparaît à droite de l'image.  
-</p>
-
-
-
-
-
 # Data Analyst 
 
 
@@ -215,6 +205,11 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
 
+### <ins>**MES PROJETS:**</ins>
 
+<p align="center">
+  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
+  Voici un texte qui apparaît à droite de l'image.  
+</p>
 
 
