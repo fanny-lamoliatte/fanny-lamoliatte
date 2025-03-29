@@ -17,7 +17,7 @@ Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approf
 Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALYST**.
 <br>
 <br>
-<br>
+
 ### <ins>**FORMATION DATA MANAGER**</ins>
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
 -	Sensibilisation à l’**acculturation data**  <img src="https://img.shields.io/badge/4%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="4 heures" width="60">   
