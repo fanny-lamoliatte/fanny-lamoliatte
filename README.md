@@ -131,17 +131,17 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
  
 Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse le profil technique de **4 métiers** du monde de la Data : 
- - Data Analyst
- - Data Scientist
- - Software Engineer
- - Research Scientist
+- Data Analyst
+- Data Scientist
+- Software Engineer
+- Research Scientist
 
 Ayant choisi de ***me reconvertir dans le secteur de la Data***,  a eu un véritable sens pour moi.\
 Il m'a permis de découvrir de manière plus approfondie le rôle des collaborateurs d'une équipe Data. \
 Les spécificités, la complémentarité, la cohésion nécessaire entre les postes, dans le but de réaliser une étude précise, détaillée et compréhensible par tous, à des fin de prises de décisions opérationnelles éclairées. 
 
 Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse le profil technique de **4 métiers** du monde de la Data: 
-     - Data Analyst
+- Data Analyst
      - Data Scientist
      - Software Engineer
      - Research Scientist
