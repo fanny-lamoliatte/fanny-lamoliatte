@@ -4,7 +4,7 @@
    <tr> 
       <td>
           <div style="display:flex;">
-              <img width="%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+              <img width="10%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
               <img width="2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
               <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
               <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
