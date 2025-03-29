@@ -5,11 +5,11 @@
       <td>
           <div style="display:flex;">
               <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
-              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pandas_logo.png">&nbsp; 
-              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pyspark_logo.png">&nbsp; 
-              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/jupyter_logo.png">&nbsp; 
-              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/github_logo.png">&nbsp; 
-              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/sql_logo.png">
+              <img width="2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
+              <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
+              <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
+              <img width="4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
+              <img width="2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png.png">
           </div> 
           <p>- <ins>Analyse de données et travail collaboratif</ins></p>
           <ul>
