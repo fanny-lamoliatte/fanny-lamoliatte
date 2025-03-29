@@ -107,7 +107,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
    </tr>        
 </table>
  <br>   
- <br>   
 
 
 ### <ins>**MES COMPETENCES PERSONNELLES:**</ins>
