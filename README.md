@@ -28,7 +28,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 -	Gouvernance **de bases de données et requêtes**  <img src="https://img.shields.io/badge/10%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="10 heures" width="70"> 
 <br>
 
-
 ### <ins>**FORMATION DATA ANALYST**</ins>
   - Approfondissement de **Python et ses librairies**   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
   - Manipulation d’outils de **Data Visualisation**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
