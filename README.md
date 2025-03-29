@@ -136,7 +136,7 @@ Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse l
  - Data Scientist
  - Software Engineer
  - Research Scientist
- 
+ <\p>
 J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.** 
 Il m'a permis d’approfondir ma compréhension du rôle des différents collaborateurs au sein d’une équipe Data.
 
