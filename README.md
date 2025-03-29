@@ -46,26 +46,6 @@
 
 
       
-      <td>
-          <div style="display:flex;">
-              <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
-              <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
-              <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/plotly_logo.png">&nbsp; 
-              <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
-              <img  width= "4.15%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
-          </div> 
-          <p>- <ins>Analyse de données et travail collaboratif</ins></p>
-          <ul>
-              <li>Numpy</li>
-              <li>Pandas</li>
-              <li>PySpark</li>
-              <li>Jupyter Notebook</li>
-              <li>Github</li>
-              <li>SQL</li>
-          </ul>
-      </td>
-   </tr>
-</table>
 
 
 
