@@ -45,46 +45,9 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
    - <ins>L’emploi dans le département de La Manche</ins>   (https://github.com/fanny-lamoliatte/DATAJOB_2024)
    -  <a href="https://github.com/fanny-lamoliatte/DATAJOB_2024"><img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/datajob_logo_rouge.PNG" width="130"/></a> <ins>Le profilage des métiers de la Data Science</ins>
 
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Compétences Côte à Côte</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .skill {
-            width: 30%;
-            padding: 10px;
-            border: 1px solid #000;
-            background-color: #f0f0f0;
-            text-align: center;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="skill">Programmation</div>
-        <div class="skill">Gestion de projet</div>
-        <div class="skill">Analyse de données</div>
-    </div>
-</body>
-</html>
-
-
-
-
-
-
-
 <br>
 
- J’ai également pris ***l’initiative*** de me former de ***manière autonome*** à ***Streamlit*** et ***GitHub***, afin d’enrichir mes compétences.
+ J’ai me suis également formée de ***manière autonome*** à ***Streamlit*** et ***GitHub***, afin d’enrichir mes compétences.
 <br>
 <br>
  <br> 
