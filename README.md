@@ -38,6 +38,19 @@
               <li>Streamlit</li>
           </ul>
       </td>
+      <td>
+          <div style="display:flex"> 
+               <img  width= "7.8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
+          </div> 
+          <p> <ins>Machine Learning<</ins></p>
+          <ul>
+              <li>Scikit-Learn</li>
+              <li>Régression</li>
+              <li>Classification</li>
+              <li>Bokeh</li>
+              <li>Analyse prédictive</li>
+          </ul>
+      </td>
    </tr>
 </table>
 
