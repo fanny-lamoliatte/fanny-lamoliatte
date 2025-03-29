@@ -59,36 +59,18 @@
           <ul>
               <li>Power BI</li>
               <li>Tableau</li>
-
           </ul>
       </td>
-
-
-
-      
-   </tr>
-</table>
-
-
-
-
-   
- <div style="display:flex"> 
-    <img  width= "4.3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
-    <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
- </div> 
-
-   - <ins></ins>
-      - 
-      - 
-   <br> 
-
- <div style="display:flex"> 
-    <img  width= "4.3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
- </div> 
-
-   - <ins>Big Data</ins>
-      - Spark   
+      <td>
+         <div style="display:flex"> 
+              <img  width= "4.3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
+         </div> 
+         <p><ins>Big Data</ins>
+              <li>Spark</li>
+          </ul>
+      </td>
+      <td>
+      -    
 
 
 
