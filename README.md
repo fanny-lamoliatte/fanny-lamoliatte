@@ -37,8 +37,8 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <br>
 
 
+### Je me suis également formée de manière autonome à STREAMLIT et GITHUB, afin d'enrichir mes compétences et renforcer ma maîtrise des outils essentiels en Data Science.
 
- ### J’ai me suis également formée de manière autonome à STREAMLIT et GITHUB, afin d’enrichir mes compétences.
 <br>
 <br>
  <br> 
