@@ -8,10 +8,10 @@
               <img width="8%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
               <img width="8.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
               <img width="9%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
-              <img width="8.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
+              <img width="8.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
               <img width="7%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
           </div> 
-          <p> <ins>Analyse de données et travail collaboratif</ins></p>
+          <p> <ins>Analyse data / Collaboration</ins></p>
           <ul>
               <li>Numpy</li>
               <li>Pandas</li>
