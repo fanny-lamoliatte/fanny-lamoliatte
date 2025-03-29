@@ -9,15 +9,14 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
  - gestion des plannings ....
 
 
-Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.
+Cette première immersion a éveillé en moi une véritable volonté de reconversion dans le domaine de la Data Science.
 
-Je me suis orientée tout d’abord vers une formation de <ins>**DATA MANAGER**</ins>
+J'ai d'abord choisi de suivre une formation de <ins>DATA MANAGER</ins>, une expérience qui m’a particulièrement enthousiasmée.
 
-***Très emballée par cette formation***, j’ai choisi de ***pousser mes compétences encore plus loin***.
+Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.
 
-Toujours avec le concours des équipes de DataScientest , je me suis attachée à devenir <ins>**DATA ANALYST**</ins>.
-<br>
-<br>
+Grâce au soutien des équipes de DataScientest, je me suis devenue <ins>DATA ANALYST</ins>.
+
 
 ### <ins>**FORMATION DATA MANAGER**</ins>
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
