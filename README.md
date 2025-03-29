@@ -108,6 +108,31 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 </table>
  <br>   
  <br>   
+
+
+### <ins>**MES COMPETENCES PERSONNELLES:**</ins>
+   - Capacité organisationnelle et collaborative
+   - Aisance rédactionnelle et communicative
+   - Pensée analytique et critique
+   - Souci du détail, de la précision
+   - Curiosité et adaptabilité
+   - Appétence pour l’apprentissage
+   <br> 
+
+
+### <ins>**DIPLOMES:**</ins>
+   - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
+   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
+   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
+
+### <ins>**MES PROJETS:**</ins>
+
+<p align="center">
+  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
+  Voici un texte qui apparaît à droite de l'image.  
+</p>
+
+
  
 <div style="display:flex"> 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
@@ -174,27 +199,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
 
 
-### <ins>**MES COMPETENCES PERSONNELLES:**</ins>
-   - Capacité organisationnelle et collaborative
-   - Aisance rédactionnelle et communicative
-   - Pensée analytique et critique
-   - Souci du détail, de la précision
-   - Curiosité et adaptabilité
-   - Appétence pour l’apprentissage
-   <br> 
-
-
-### <ins>**DIPLOMES:**</ins>
-   - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
-   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
-   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
-
-### <ins>**MES PROJETS:**</ins>
-
-<p align="center">
-  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
-  Voici un texte qui apparaît à droite de l'image.  
-</p>
 
 
 
