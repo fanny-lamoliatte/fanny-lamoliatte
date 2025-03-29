@@ -32,12 +32,12 @@ Toujours avec le concours des équipes de DataScientest , je me suis attachée �
 ### <ins>**FORMATION DATA ANALYST**</ins>
 
 
-  - Approfondissement de Python et ses librairies   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
-  - Manipulation d’outils de Data Visualisation  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
-  - Machine Learning avancé   <img src="https://img.shields.io/badge/75%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="75 heures" width="70"> 
-  - Big Data et Data Base    <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="25 heures" width="70"> 
-  - Outils de BI    <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
-  - Text Mining et Web Scrapping     <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
+  - Approfondissement de **Python et ses librairies**   <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="75"> 
+  - Manipulation d’outils de **Data Visualisation**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70"> 
+  - **Machine Learning** avancé   <img src="https://img.shields.io/badge/75%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="75 heures" width="70"> 
+  - **Big Data** et **Data Base**    <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="25 heures" width="70"> 
+  - Outils de **Business Intelligence**    <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
+  - Text Mining et Web Scrapping**     <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
 <br>
 
 
