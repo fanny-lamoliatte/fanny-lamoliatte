@@ -51,10 +51,10 @@
       </td>
       <td>
           <div style="display:flex"> 
-               <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
-               <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
+               <img  width= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
+               <img  width= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
           </div> 
-          <p> <ins>Business Intellenge</ins></p>
+          <p> <ins>BI</ins></p>
           <ul>
               <li>Power BI</li>
               <li>Tableau</li>
@@ -62,7 +62,7 @@
       </td>
       <td>
          <div style="display:flex"> 
-              <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
+              <img  width= "35%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
          </div> 
          <p><ins>Big Data</ins>
               <li>Spark</li>
