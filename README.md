@@ -7,7 +7,7 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
  - ***collecte en amont de data*** sur les accords mets/vins,
  - sur les meilleurs millésimes régionaux,
  - gestion des plannings ....
-<br>
+
 
 Cette première immersion a suscité en moi la **volonté de me reconvertir** dans le milieu de la Data Science.
 
