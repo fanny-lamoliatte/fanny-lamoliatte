@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -29,19 +28,22 @@
     <!-- Première colonne -->
     <div class="column">
         <h3>Colonne 1</h3>
-         <div style="display:flex"> 
-    <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/matplotlib_logo.png">&nbsp; 
-    <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/seaborn_logo.png">&nbsp; 
-    <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/plotly_logo.png">&nbsp; 
-    <img  width= "3.95%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/bokeh_logo.png">&nbsp; 
-    <img  width= "4.15%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/streamit_logo.png"> 
- </div> 
+        <div style="display: flex;">
+            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/matplotlib_logo.png" alt="Matplotlib Logo">&nbsp;
+            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/seaborn_logo.png" alt="Seaborn Logo">&nbsp;
+            <img width="3.5%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/plotly_logo.png" alt="Plotly Logo">&nbsp;
+            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/bokeh_logo.png" alt="Bokeh Logo">&nbsp;
+            <img width="4.15%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/streamit_logo.png" alt="Streamlit Logo">
+        </div>
 
-   - <ins>Data visualisation</ins>
-      - Matplotlib
-      - Seaborn
-      - Plotly
-      - Bokeh
+        <p>- <ins>Data visualisation</ins></p>
+        <ul>
+            <li>Matplotlib</li>
+            <li>Seaborn</li>
+            <li>Plotly</li>
+            <li>Bokeh</li>
+            <li>Streamlit</li>
+        </ul>
     </div>
 
     <!-- Deuxième colonne -->
@@ -54,6 +56,7 @@
 
 </body>
 </html>
+
 
 
 
