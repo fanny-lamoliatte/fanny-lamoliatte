@@ -137,23 +137,11 @@ Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse l
  - Software Engineer
  - Research Scientist
  
-J'ai choisi ce sujet car il correspond parfaitement à ma volonté de reconversion professionnelle. 
+J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.** 
 Il m'a permis d’approfondir ma compréhension du rôle des différents collaborateurs au sein d’une équipe Data.
 
 
 
-
-
-
-Ayant choisi de ***me reconvertir dans le secteur de la Data***,  a eu un véritable sens pour moi.\
-Il m'a permis de découvrir de manière plus approfondie le rôle des collaborateurs d'une équipe Data. \
-Les spécificités, la complémentarité, la cohésion nécessaire entre les postes, dans le but de réaliser une étude précise, détaillée et compréhensible par tous, à des fin de prises de décisions opérationnelles éclairées. 
-
-Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse le profil technique de **4 métiers** du monde de la Data: 
-- Data Analyst
-     - Data Scientist
-     - Software Engineer
-     - Research Scientist
 
 
 Par ***consolidation des données,*** ajout de sondages, variation sur les compétences techniques prises en compte, j'ai réussi à ***augmenter la fiabilité de mes modèles prédictifs.*** 
