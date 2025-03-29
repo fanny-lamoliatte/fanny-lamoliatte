@@ -34,6 +34,8 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
   - Outils de **Business Intelligence**    <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
   - Text Mining et Web Scrapping**     <img src="https://img.shields.io/badge/30%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="30 heures" width="70"> 
 
+<br> 
+<br> 
 
 #### Je me suis également formée de manière autonome à STREAMLIT et GITHUB, afin d'enrichir mes compétences et renforcer ma maîtrise des outils essentiels en Data Science.
 
