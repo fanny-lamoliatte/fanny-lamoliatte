@@ -54,7 +54,7 @@
                <img  width= "25%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
                <img  width= "25%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
           </div> 
-          <p> <ins>BI</ins></p>
+          <p> <ins>Business Intelligence</ins></p>
           <ul>
               <li>Power BI</li>
               <li>Tableau</li>
