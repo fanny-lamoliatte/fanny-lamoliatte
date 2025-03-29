@@ -131,7 +131,10 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 </p>
 <br>  
 <br> 
- <br> 
+<br> 
+<br>  
+<br> 
+<br> 
  
 <div style="display:flex"> 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
