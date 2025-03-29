@@ -10,7 +10,6 @@
               <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
               <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
           </div> 
- 
               - <ins>Analyse de données et travail collaboratif</ins>
                 - Numpy
                 - Pandas
@@ -19,7 +18,25 @@
                 - Github
                 - SQL
         </td>
+      <td> 
+          <div> style="display:flex"> 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+              <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
+              <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
+          </div> 
+              - <ins>Analyse de données et travail collaboratif</ins>
+                - Numpy
+                - Pandas
+                - PySpark
+                - Jupyter Notebook
+                - Github
+                - SQL
+      </td>
     </tr>
+</table>
     
 
 
