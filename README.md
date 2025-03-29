@@ -1,4 +1,13 @@
 
+<p align="center">
+  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
+  Voici un texte qui apparaît à droite de l'image.  
+</p>
+
+
+
+
+
 # Data Analyst 
 
 
