@@ -115,13 +115,14 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
    - Souci du détail, de la précision
    - Curiosité et adaptabilité
    - Appétence pour l’apprentissage
-   <br> 
+<br> 
 
 
 ### <ins>**DIPLOMES:**</ins>
    - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
+<br> 
 
 ### <ins>**MES PROJETS:**</ins>
 
