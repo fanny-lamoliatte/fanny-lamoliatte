@@ -40,7 +40,7 @@
       </td>
       <td>
           <div style="display:flex"> 
-               <img  width= "20%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
+               <img  width= "30%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
           </div> 
           <p> <ins>Machine Learning</ins></p>
           <ul>
