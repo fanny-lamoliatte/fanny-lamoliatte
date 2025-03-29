@@ -47,7 +47,6 @@
               <li>Scikit-Learn</li>
               <li>Régression</li>
               <li>Classification</li>
-              <li>Bokeh</li>
               <li>Analyse prédictive</li>
           </ul>
       </td>
