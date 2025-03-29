@@ -40,7 +40,7 @@
       </td>
       <td>
           <div style="display:flex"> 
-               <img  width= "30%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
+               <img  width= "35%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/scikit-learn_logo.png">
           </div> 
           <p> <ins>Machine Learning</ins></p>
           <ul>
@@ -51,10 +51,10 @@
       </td>
       <td>
           <div style="display:flex"> 
-               <img  width= "4.3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
-               <img  width= "3.5%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
+               <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/PBI_logo.png">&nbsp; 
+               <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/tableau_logo.png"> 
           </div> 
-          <p> <insBusiness Intellenge</ins></p>
+          <p> <ins>Business Intellenge</ins></p>
           <ul>
               <li>Power BI</li>
               <li>Tableau</li>
@@ -62,7 +62,7 @@
       </td>
       <td>
          <div style="display:flex"> 
-              <img  width= "4.3%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
+              <img  width= "12%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">
          </div> 
          <p><ins>Big Data</ins>
               <li>Spark</li>
