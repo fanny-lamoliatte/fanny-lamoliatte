@@ -9,7 +9,7 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
  - gestion des plannings ....
 <br>
 
-Cette première immersion a éveillé en moi une véritable volonté de reconversion dans le domaine de la Data Science.
+Cette première immersion a éveillé en moi une véritable volonté de **reconversion dans le domaine de la Data Science.**
 
 J'ai d'abord choisi de suivre une formation de <ins>DATA MANAGER</ins>, une expérience qui m’a particulièrement enthousiasmée.
 
