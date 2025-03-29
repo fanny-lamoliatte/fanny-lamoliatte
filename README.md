@@ -129,7 +129,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" width="200" align="left">
   Voici un texte qui apparaît à droite de l'image.  
 </p>
-
+<br>  
 
  
 <div style="display:flex"> 
