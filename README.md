@@ -53,7 +53,6 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
  <br> 
  
 ### <ins>**MES COMPETENCES TECHNIQUES:**</ins>
- <br> 
 <table>
    <tr> 
       <td>
