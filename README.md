@@ -130,8 +130,11 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" height= "200" weight="100"  align="left">
 
  
- Réalisée dans le cade de **ma formation DATA ANALYST**, cette ét a été réalisé \
-**Projet collaboratif** réalisé dans le cadre de, puis ***repris à titre personnel.***
+Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse le profil technique de **4 métiers** du monde de la Data: 
+ - Data Analyst
+ - Data Scientist
+ - Software Engineer
+ - Research Scientist
 
 Ayant choisi de ***me reconvertir dans le secteur de la Data***,  a eu un véritable sens pour moi.\
 Il m'a permis de découvrir de manière plus approfondie le rôle des collaborateurs d'une équipe Data. \
@@ -141,7 +144,7 @@ Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse l
  - Data Analyst
  - Data Scientist
  - Software Engineer
- - - Research Scientist
+ -  Research Scientist
 
 
 Par ***consolidation des données,*** ajout de sondages, variation sur les compétences techniques prises en compte, j'ai réussi à ***augmenter la fiabilité de mes modèles prédictifs.*** 
