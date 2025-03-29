@@ -60,6 +60,68 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 ### <ins>**MES COMPETENCES TECHNIQUES:**</ins>
  <br> 
 
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textes Côte à Côte</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .text {
+            width: 45%;
+            padding: 10px;
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text"><div style="display:flex"> 
+    <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+    <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
+    <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
+    <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
+    <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
+    <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
+</div> 
+ 
+   - <ins>Analyse de données et travail collaboratif</ins>
+      - Numpy
+      - Pandas
+      - PySpark
+      - Jupyter Notebook
+      - Github
+      - SQL</div>
+        <div class="text">Deuxième texte affiché à côté.</div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <div style="display:flex"> 
     <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
