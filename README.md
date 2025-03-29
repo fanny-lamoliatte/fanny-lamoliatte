@@ -7,9 +7,9 @@ Forte de cette expérience, les ***éditions Féret*** m’ont accordé leur con
  - ***collecte en amont de data*** sur les accords mets/vins,
  - sur les meilleurs millésimes régionaux,
  - gestion des plannings ....
-<br>
+
 Cette première immersion a éveillé en moi une véritable volonté de **reconversion dans le domaine de la Data Science.**
-<br>
+
 J'ai d'abord choisi de suivre une formation de **DATA MANAGER**, une expérience qui m’a particulièrement enthousiasmée.
 <br>
 Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.
