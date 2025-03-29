@@ -136,6 +136,13 @@ Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse l
  - Data Scientist
  - Software Engineer
  - Research Scientist
+J'ai choisi ce sujet car il correspond parfaitement à ma volonté de reconversion professionnelle. 
+Il m'a permis d’approfondir ma compréhension du rôle des différents collaborateurs au sein d’une équipe Data.
+
+
+
+
+
 
 Ayant choisi de ***me reconvertir dans le secteur de la Data***,  a eu un véritable sens pour moi.\
 Il m'a permis de découvrir de manière plus approfondie le rôle des collaborateurs d'une équipe Data. \
