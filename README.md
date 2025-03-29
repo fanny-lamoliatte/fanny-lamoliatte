@@ -128,11 +128,11 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
 <p align="center">
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" height= "200" weight="100"  align="left">
-Réalisé dans le cadre de ma **formation DATA ANALYST**, ce étude tent à faire un profilage de 4 métiers de la Data Science:
-  - Data Analyst
-  - Data Scientist
-  - Software Engineer
-  - Research Scientist
+Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude tent à faire un profilage de 4 métiers de la Data Science:
+    - Data Analyst
+    - Data Scientist
+    - Software Engineer
+    - Research Scientist
 
  
  **Ce profilage des métiers de la DataScience** a été réalisé \
