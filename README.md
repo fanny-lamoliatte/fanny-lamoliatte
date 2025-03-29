@@ -129,7 +129,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <p align="center">
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" height= "200" weight="100"  align="left">
 Réalisée dans le cadre de ma **formation DATA ANALYST**, cette étude dresse les profils techniques de **4 métiers** du monde de la Data : 
- <p align =center>_ Data Analyst  _ Data Scientist  _ Software Engineer  _ Research Scientitst</p>
+_ Data Analyst  _ Data Scientist  _ Software Engineer  _ Research Scientitst
 
 
 
