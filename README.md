@@ -1,66 +1,29 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deux Colonnes avec Texte et Images</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            gap: 20px;
-        }
-        .column {
-            flex: 1;
-            padding: 15px;
-            border: 1px solid #ccc;
-            background-color: #f9f9f9;
-        }
-        .column img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
 
-<div class="container">
-    <!-- Première colonne -->
-    <div class="column">
-        <h3>Colonne 1</h3>
-        <div style="display: flex;">
-            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/matplotlib_logo.png" alt="Matplotlib Logo">&nbsp;
-            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/seaborn_logo.png" alt="Seaborn Logo">&nbsp;
-            <img width="3.5%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/plotly_logo.png" alt="Plotly Logo">&nbsp;
-            <img width="3.95%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/bokeh_logo.png" alt="Bokeh Logo">&nbsp;
-            <img width="4.15%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/streamit_logo.png" alt="Streamlit Logo">
-        </div>
-
-        <p>- <ins>Data visualisation</ins></p>
-        <ul>
-            <li>Matplotlib</li>
-            <li>Seaborn</li>
-            <li>Plotly</li>
-            <li>Bokeh</li>
-            <li>Streamlit</li>
-        </ul>
-    </div>
-
-    <!-- Deuxième colonne -->
-    <div class="column">
-        <h3>Colonne 2</h3>
-        <p>Texte dans la deuxième colonne avec une autre image ci-dessous.</p>
-        <img src="https://via.placeholder.com/300" alt="Image 2">
-    </div>
-</div>
-
-</body>
-</html>
+<table>
+   <tr> 
+      <td>
+          <div> style="display:flex"> 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/numpy_logo.png">&nbsp; 
+              <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pandas_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/pyspark_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/jupyter_logo.png">&nbsp; 
+              <img  width= "4%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/github_logo.png">&nbsp; 
+              <img  width= "2.75%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/LOGOS/sql_logo.png">
+          </div> 
+ 
+              - <ins>Analyse de données et travail collaboratif</ins>
+                - Numpy
+                - Pandas
+                - PySpark
+                - Jupyter Notebook
+                - Github
+                - SQL
+        </td>
+    </tr>
+    
 
 
-
-
-
+    
 
 
 
