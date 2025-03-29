@@ -1,3 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau avec Images et Texte</title>
+</head>
+<body>
+
+<table>
+   <tr> 
+      <td>
+          <div style="display:flex;">
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/numpy_logo.png">&nbsp; 
+              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pandas_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pyspark_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/jupyter_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/github_logo.png">&nbsp; 
+              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/sql_logo.png">
+          </div> 
+          <p>- <ins>Analyse de données et travail collaboratif</ins></p>
+          <ul>
+              <li>Numpy</li>
+              <li>Pandas</li>
+              <li>PySpark</li>
+              <li>Jupyter Notebook</li>
+              <li>Github</li>
+              <li>SQL</li>
+          </ul>
+      </td>
+      
+      <td>
+          <div style="display:flex;">
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/numpy_logo.png">&nbsp; 
+              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pandas_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/pyspark_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/jupyter_logo.png">&nbsp; 
+              <img width="4%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/github_logo.png">&nbsp; 
+              <img width="2.75%" src="https://raw.githubusercontent.com/fanny-lamoliatte/fanny-lamoliatte/main/LOGOS/sql_logo.png">
+          </div> 
+          <p>- <ins>Analyse de données et travail collaboratif</ins></p>
+          <ul>
+              <li>Numpy</li>
+              <li>Pandas</li>
+              <li>PySpark</li>
+              <li>Jupyter Notebook</li>
+              <li>Github</li>
+              <li>SQL</li>
+          </ul>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 
 <table>
    <tr> 
