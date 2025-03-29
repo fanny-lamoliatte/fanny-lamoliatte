@@ -47,7 +47,7 @@ Durant ces formations j’ai pu mener de ***mettre en pratique mes acquis*** en 
 
 <br>
 
- J’ai me suis également formée de ***manière autonome*** à ***Streamlit*** et ***GitHub***, afin d’enrichir mes compétences.
+ ## J’ai me suis également formée de ***manière autonome*** à ***Streamlit*** et ***GitHub***, afin d’enrichir mes compétences.
 <br>
 <br>
  <br> 
