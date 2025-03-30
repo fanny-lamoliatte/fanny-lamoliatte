@@ -115,7 +115,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
    - Souci du détail, de la précision
    - Curiosité et adaptabilité
    - Appétence pour l’apprentissage
-<br> 
 
 
 ### <ins>**MES DIPLOMES:**</ins>
