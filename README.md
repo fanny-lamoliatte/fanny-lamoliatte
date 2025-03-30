@@ -145,14 +145,10 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <p align="center">
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_la_manche.png" height= "180" weight="180" align="left">
 
-   **Ce rapport a été élaboré dans le cadre de ma formation au métier de DATA MANAGER.**
- Il définit définit un observatoire de la Manche 
+  **Ce rapport a été élaboré lors de ma formation au métier de DATA MANAGER.**
+  Il définit définit un observatoire de la Manche 
  
- **Réalisée dans le cadre de ma formation DATA ANALYST**, cette étude dresse les profils techniques de **4 métiers** du monde de la Data entre **2018** et 2**022** :\
- ***Data Analyst***  //  ***Data Scientist***  //  ***Software Engineer***  //  ***Research Scientist***  
 
- J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.**
- Il m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**
 
 
 
