@@ -138,7 +138,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <br> 
 
 
-<p align="left"><img align="center" width="30%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/la_manche_logo.png" /></p>
+<p align="left"><img align="center" width="28%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/la_manche_logo.png" /></p>
 <p align="center">
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_datajob.PNG" height= "160" weight="150" align="left">
  
