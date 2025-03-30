@@ -123,6 +123,8 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
 <br> 
+<br> 
+
 
 ### <ins>**MES PROJETS:**</ins>
 <p align="left"><img align="center" width="15%" src="https://github.com/fanny-lamoliatte/DATAJOB/blob/main/datajob_logo_rouge.PNG" /></p>
@@ -137,10 +139,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <br> 
 <br> 
 
-
-
-
- 
 
 <p align="left"><img align="center" width="15%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/la_manche_logo.png" /></p>
 <p align="center">
