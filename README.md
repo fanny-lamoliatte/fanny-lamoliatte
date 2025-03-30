@@ -137,13 +137,6 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
 
 
-
-
-
-
-
-
-Par ***consolidation des données,*** ajout de sondages, variation sur les compétences techniques prises en compte, j'ai réussi à ***augmenter la fiabilité de mes modèles prédictifs.*** 
 </p>
 <br>  
 <br> 
