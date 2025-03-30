@@ -145,7 +145,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 <p align="center">
   <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_la_manche.png" height= "180" weight="180" align="left">
 
-  **Ce rapport a été élaboré lors de ma formation au métier de DATA MANAGER.**
+  **Ce rapport a été élaboré lors de ma formation au métier de DATA MANAGER.**\
   Il met en relief les **principales tendances** de ce département, l'un des moins peuplé de la France, qui voit **sa démographie chuter peu à peu.** 
  
   Qu'elles en sont **les raisons ?** 
