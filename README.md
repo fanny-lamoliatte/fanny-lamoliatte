@@ -143,7 +143,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
 <p align="left"><img align="center" width="15%" src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/la_manche_logo.png" /></p>
 <p align="center">
-  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_la_manche.png" height= "190" weight="180" align="left">
+  <img src="https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/projet_la_manche.png" height= "180" weight="180" align="left">
 
    **Ce rapport a été élaboré dans le cadre de ma formation au métier de DATA MANAGER.**
  Il définit définit un observatoire de la Manche 
