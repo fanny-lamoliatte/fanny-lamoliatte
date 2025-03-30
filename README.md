@@ -133,8 +133,9 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
  ***Data Analyst***  //  ***Data Scientist***  //  ***Software Engineer***  //  ***Research Scientist***  
 
  J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.**
- Il m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**
-
+ Sa réalisation m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**
+<br> 
+<br> 
 
 
 
