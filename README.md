@@ -136,7 +136,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
  ***Data Analyst***  //  ***Data Scientist***  //  ***Software Engineer***  //  ***Research Scientist***  
 
  J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.**
- Sa réalisation m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**
+ Sa réalisation m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**\
  (https://github.com/fanny-lamoliatte/DATAJOB)
 <br> 
 <br> 
@@ -150,7 +150,8 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
   Il met en lumière les **principales tendances** de ce département, l'un des moins peuplé de la France, dont la **démographie est en déclin progressif.** 
  
   Qu'elles en sont **les causes ?**\
-  Qu'elles **solutions** ont été mises en place pour **remédier à cette situation ?**
+  Qu'elles **solutions** ont été mises en place pour **remédier à cette situation ?**\
+  https://github.com/fanny-lamoliatte/EMPLOI_MANCHE
 
 
 
