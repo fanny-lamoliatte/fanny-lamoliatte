@@ -137,7 +137,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 
  J'ai choisi ce sujet car **il correspond parfaitement à ma volonté de reconversion professionnelle.**
  Sa réalisation m'a permis d’approfondir ma compréhension du **rôle des différents collaborateurs au sein d’une équipe Data.**\
- (https://github.com/fanny-lamoliatte/DATAJOB)
+(https://github.com/fanny-lamoliatte/DATAJOB
 <br> 
 <br> 
 
