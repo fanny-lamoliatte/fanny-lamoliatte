@@ -120,7 +120,7 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
 ### <ins>**MES DIPLOMES:**</ins>
    - Data Manager https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataManager.pdf
    - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Diplome%20DataAnalyst.pdf   
-   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYSR.pdf
+   - Data Analyst https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/DIPLOMES/Attestation%20DataScientest%20DATA%20ANALYST.pdf
 <br> 
 <br> 
 
