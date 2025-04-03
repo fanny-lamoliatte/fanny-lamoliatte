@@ -13,7 +13,7 @@ Cette première immersion a éveillé en moi une véritable volonté de **reconv
 
 
 J'ai d'abord choisi de suivre une formation de **DATA MANAGER**, une expérience qui m’a particulièrement enthousiasmée.\
-Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.
+Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.\
 Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALYST**.
 <br>  
 
