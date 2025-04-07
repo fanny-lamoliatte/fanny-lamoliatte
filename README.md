@@ -107,6 +107,8 @@ Grâce au soutien des équipes de DataScientest, je me suis devenue **DATA ANALY
    </tr>        
 </table>
 
+CV://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/CV%20Fanny%20Lamoliatte.pdf
+
 
 ### <ins>**MES COMPETENCES PERSONNELLES:**</ins>
    - Capacité organisationnelle et collaborative
