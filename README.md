@@ -16,7 +16,7 @@ J'ai d'abord choisi de suivre une formation de **DATA MANAGER**, une expérience
 Passionnée et désireuse d’aller encore plus loin, j’ai décidé d’approfondir mes compétences.\
 Grâce au soutien des équipes de DataScientest, je suis devenue **DATA ANALYST**.
 <br>  
-[CV] (https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/CV%20Fanny%20Lamoliatte.pdf)
+**CV** https://github.com/fanny-lamoliatte/fanny-lamoliatte/blob/main/CV%20Fanny%20Lamoliatte.pdf
 
 ### <ins>**FORMATION DATA MANAGER**</ins>
 -	Prise en main de **Python**  <img src="https://img.shields.io/badge/35%20heures-0000FF?style=flat&logoColor=white&color=66B2FF" alt="35 heures" width="70">   
